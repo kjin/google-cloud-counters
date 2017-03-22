@@ -1,0 +1,15 @@
+{
+  "name": "counter_google-cloud_trace-agent",
+  "version": "0.1.0",
+  "description": "Empty package to track download statistics for @google-cloud/trace-agent",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjin/google-cloud-counters.git"
+  },
+  "author": "Kelvin Jin (kelvinjin@google.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kjin/google-cloud-counters/issues"
+  },
+  "homepage": "https://github.com/kjin/google-cloud-counters#readme"
+}
