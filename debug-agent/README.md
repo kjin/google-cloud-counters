@@ -1,0 +1,1 @@
+This is an empty package. It is used by @google-cloud/debug-agent to track its download count, since npm doesn't provide an interface for retrieving download counts for namespaced modules (see https://github.com/npm/registry/issues/59).
